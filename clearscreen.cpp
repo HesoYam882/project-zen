@@ -5,7 +5,9 @@ void cls();
 int add();
 int sub();
 
-int main() {
+int main()
+//edited 
+{
     int user_input, result;
     
     do {
